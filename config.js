@@ -1,2 +1,2 @@
 console.log("version1")
-console.log("testing2")
+console.log("testing")
